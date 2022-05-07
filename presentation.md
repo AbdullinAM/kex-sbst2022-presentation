@@ -1,4 +1,4 @@
-% Kex at the 2021 SBST Tool Competition
+% Kex at the 2022 SBST Tool Competition
 % Azat Abdullin
 
 # Overview
